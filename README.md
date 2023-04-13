@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hi there 👋
 
 ### A skilled Java Programmer, who enjoys solving complex challenges.
 
