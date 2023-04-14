@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### A skilled Java Programmer, who enjoys solving complex challenges.
+### Java Programmer, who enjoys solving complex challenges.
 
 
 - 🔭 I’m currently working on backend for an E-commerce Application (Spring boot)
