@@ -2,9 +2,7 @@
 
 ### Java Programmer, who enjoys solving complex challenges.
 
-
-- 🔭 I’m currently working on backend for an E-commerce Application (Spring boot)
-- 🌱 I’m currently learning Spring security and also React JS 
+- 🌱 I’m currently exploring spring ecosystem & also devops stuff.
 - 💬 Ask me about Java, Javascript
 - 📫 Checkout my profiles below
 
