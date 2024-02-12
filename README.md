@@ -4,7 +4,9 @@
 
 - 🌱 I’m currently exploring spring ecosystem & also devops stuff.
 - 💬 Ask me about Java, Javascript
+  <!---
 - 📫 Checkout my profiles below
+ --->
 
 ##
 
