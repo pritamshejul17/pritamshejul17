@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Software Devloper, who enjoys solving complex challenges.
+### Software Developer, who enjoys solving complex challenges.
 
 - 🌱 I’m currently exploring spring ecosystem & also devops stuff.
 - 💬 Ask me about Java, Javascript
